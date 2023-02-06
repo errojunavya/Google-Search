@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 18px;
+  height: 16px;
+  width: 16px;
+}
+
+.arrow-icon {
+  height: 16px;
+  width: 16px;
+}
